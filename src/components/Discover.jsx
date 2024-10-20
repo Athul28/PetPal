@@ -12,7 +12,7 @@ function Discover() {
       <p className="text-white text-xl text-center w-[50%] m-auto">
         Create a Bond with Your Unique Virtual Pet
       </p>
-      <div className="md:flex justify-center md:space-x-10 p-10 max-md: space-y-5 items-center">
+      <div className="md:flex justify-center md:space-x-10 p-10 max-md: max-md:space-y-5 items-center">
         <div className="m-auto">
             <img src={d1} alt="img" className="h-64 m-auto"/>
         </div>
