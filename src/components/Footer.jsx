@@ -3,7 +3,7 @@ function Footer() {
     <div className="bg-[#282c3c] text-gray-300 text-center p-3">
       <div className="md:flex md:space-x-4 m-auto w-fit">
         <p>Terms</p>
-        <p>Explore Our</p>
+        <p>Explore</p>
         <p>Instagram</p>
         <p>Resources</p>
       </div>

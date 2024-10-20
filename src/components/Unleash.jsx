@@ -17,7 +17,7 @@ function Unleash() {
           <img src={mobile} alt="cat-img" className="" />
         </div>
         <div className="flex flex-col justify-center space-y-10 max-lg:items-center">
-          <div className="bg-white sm:flex items-center p-10 rounded-3xl space-x-10 w-[70%]">
+          <div className="bg-white sm:flex items-center p-10 rounded-3xl space-x-10 w-[70%] hover:rotate-6 transition">
             <img src={u1} alt="img" className="h-24 max-sm:m-auto" />
             <div className="">
               <p className="text-4xl mb-3 max-sm:text-center">Connect</p>
@@ -26,7 +26,7 @@ function Unleash() {
               </p>
             </div>
           </div>
-          <div className="bg-white sm:flex items-center p-10 rounded-3xl space-x-10 w-[70%]">
+          <div className="bg-white sm:flex items-center p-10 rounded-3xl space-x-10 w-[70%] hover:rotate-6 transition">
             <img src={u1} alt="img" className="h-24 max-sm:m-auto" />
             <div>
               <p className="text-4xl mb-3 max-sm:text-center">Explore</p>
@@ -35,7 +35,7 @@ function Unleash() {
               </p>
             </div>
           </div>
-          <div className="bg-white sm:flex items-center p-10 rounded-3xl space-x-10 w-[70%]">
+          <div className="bg-white sm:flex items-center p-10 rounded-3xl space-x-10 w-[70%] hover:rotate-6 transition">
             <img src={u1} alt="img" className="h-24 max-sm:m-auto" />
             <div>
               <p className="text-4xl mb-3 max-sm:text-center max-sm:m-auto">Enjoy</p>

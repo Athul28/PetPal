@@ -13,13 +13,13 @@ function Discover() {
         Create a Bond with Your Unique Virtual Pet
       </p>
       <div className="md:flex justify-center md:space-x-10 p-10 max-md:space-y-5 items-center">
-        <div className="">
+        <div className="hover:scale-110 transition">
             <img src={d1} alt="img" className="h-64 m-auto"/>
         </div>
-        <div className="">
+        <div className="hover:scale-110 transition">
             <img src={d2} alt="img" className="h-64 m-auto"/>
         </div>
-        <div className="">
+        <div className="hover:scale-110 transition">
             <img src={d3} alt="img" className="h-64 m-auto"/>
         </div>
       </div>
