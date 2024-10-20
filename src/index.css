@@ -39,3 +39,8 @@
   font-weight: 700;
   font-style: normal;
 }
+
+.custom-cursor {
+  cursor: url('./assets/cookie2.png'), auto;
+}
+
