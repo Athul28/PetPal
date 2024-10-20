@@ -19,7 +19,7 @@ function Connect() {
         <br />
         <p>Immerse yourself in the vibrant world of our virtual pet app</p>
         <p>Share the Journey</p>
-        <button className="bg-[#282c3c] text-white w-fit px-12 py-4 rounded-[50px] text-2xl">
+        <button className="bg-[#282c3c] text-white w-fit px-12 py-4 rounded-[50px] text-2xl hover:scale-110 transition">
           Join the Adventure
         </button>
       </div>

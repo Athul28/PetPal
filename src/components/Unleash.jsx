@@ -44,7 +44,7 @@ function Unleash() {
               </p>
             </div>
           </div>
-          <button className="bg-[#282c3c] text-white w-fit px-12 py-4 rounded-[50px] text-2xl">
+          <button className="bg-[#282c3c] text-white w-fit px-12 py-4 rounded-[50px] text-2xl hover:scale-110 transition">
             Start Exploring
           </button>
         </div>
