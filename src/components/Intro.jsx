@@ -5,7 +5,7 @@ import cat3 from "../assets/cat3.jpg";
 export default function Intro() {
   return (
     <div className="py-20">
-      <p className="text-center text-5xl text-[#282c3c]">
+      <p className="text-center text-5xl text-[#282c3c] max-sm:text-[40px]">
         Introducing Our Adorable Pets
       </p>
       <div className="md:flex flex-wrap justify-center md:space-x-10 pt-10">

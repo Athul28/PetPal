@@ -44,3 +44,11 @@
   cursor: url('./assets/cookie2.png'), auto;
 }
 
+.fish-cursor {
+  cursor: url('./assets/fish.png'), auto;
+}
+
+.chocolate-cursor {
+  cursor: url('./assets/chocolate.png'), auto;
+}
+

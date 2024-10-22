@@ -6,7 +6,7 @@ import d3 from "../assets/d3.jpg"
 function Discover() {
   return (
     <div className="bg-[#c86cbc] p-10">
-      <p className="text-white text-[70px] text-center">
+      <p className="text-white text-[70px] text-center max-sm:text-[40px]">
         Discover the Joy of Pet
       </p>
       <p className="text-white text-xl text-center w-[50%] m-auto">
